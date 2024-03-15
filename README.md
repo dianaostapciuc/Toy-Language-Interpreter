@@ -1,1 +1,1 @@
-# Toy-Language-Interpreter
+Accomplished the development of a Java-based toy language interpreter, integrated with a JavaFX graphical user interface, crafted using Scene Builder. Using a Model-View-Controller architecture, I have implemented various data structures, all while gaining a deep understanding of object-oriented principles. It provides a user-friendly interface for interaction and visualization of the code’s execution progress.
